@@ -1,5 +1,8 @@
 # semut-paper-template
 
+ideally as below 
+but see semut-adaptive-architecture as a start.
+
 ```
 semut-paper-template/
 
