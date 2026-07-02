@@ -1,32 +1,34 @@
-# semut-paper-template
+# Semut Paper Template
 
-ideally as below 
-but see semut-adaptive-architecture as a start.
+A template repository for writing research papers using LaTeX, GitHub, and GitHub Actions.
+
+## Features
+
+- LaTeX paper structure
+- GitHub Actions for automatic PDF generation
+- Modular sections (`sections/`)
+- Git-based version control
+- Ready for GitHub Releases and future publication
+
+## First Paper
+
+This template is being validated through:
+
+- **Semut Adaptive Architecture**
+  https://github.com/semutLLC/semut-adaptive-architecture
+
+As the template matures, improvements from published Semut papers will be incorporated here.
+
+## Repository Structure
 
 ```
-semut-paper-template/
-
-README.md
-LICENSE
-.gitignore
-
 paper.tex
 references.bib
-
 sections/
-    abstract.tex
-    introduction.tex
-    conclusion.tex
-
 figures/
-    .gitkeep
-
-.github/
-    workflows/
-        build.yml
-        release.yml
-
-.vscode/
-    settings.json
-
+.github/workflows/
 ```
+
+## Status
+
+🚧 Early template under active development.
